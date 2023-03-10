@@ -16,3 +16,12 @@ int main()
     cout<<x<<endl;
     return 0;
 }
+/*
+Input
+2
+X++
+--X
+
+Output
+0
+*/
