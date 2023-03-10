@@ -20,3 +20,11 @@ int main(){
     solve();
     return 0;
 }
+
+/*
+Input
+4545
+
+Output
+4444
+*/
