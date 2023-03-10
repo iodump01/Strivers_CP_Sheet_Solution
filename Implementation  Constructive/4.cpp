@@ -9,3 +9,11 @@ int main()
     cout << min(min(k * l / nl, c * d), p / np) / n << endl;
     return 0;
 }
+
+/*
+Input
+3 4 5 10 8 100 3 1
+
+Output
+2
+*/
